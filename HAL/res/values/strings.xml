@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pnum1">Primary Contact:</string>
+    <string name="pnum2">Secondary Contact:</string>
+    <string name="countdown">Estimated Time of Arrival:</string>
+    <string name="app_name">High Altitude balloon Locator</string>
+</resources>
